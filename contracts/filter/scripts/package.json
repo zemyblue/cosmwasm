@@ -1,0 +1,12 @@
+{
+  "name": "filer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "zemyblue",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@finschia/finschia": "0.8.0",
+    "@cosmjs/stargate": "0.31.1",
+    "@cosmjs/encoding": "0.31.1"
+  }
+}
